@@ -1,0 +1,15 @@
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\bin\Debug\net8.0\tabela-hash.exe
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\bin\Debug\net8.0\tabela-hash.deps.json
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\bin\Debug\net8.0\tabela-hash.runtimeconfig.json
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\bin\Debug\net8.0\tabela-hash.dll
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\bin\Debug\net8.0\tabela-hash.pdb
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\obj\Debug\net8.0\tabela-hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\obj\Debug\net8.0\tabela-hash.AssemblyInfoInputs.cache
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\obj\Debug\net8.0\tabela-hash.AssemblyInfo.cs
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\obj\Debug\net8.0\tabela-hash.csproj.CoreCompileInputs.cache
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\obj\Debug\net8.0\tabela-hash.sourcelink.json
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\obj\Debug\net8.0\tabela-hash.dll
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\obj\Debug\net8.0\refint\tabela-hash.dll
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\obj\Debug\net8.0\tabela-hash.pdb
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\obj\Debug\net8.0\tabela-hash.genruntimeconfig.cache
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\tabela-hash\obj\Debug\net8.0\ref\tabela-hash.dll
